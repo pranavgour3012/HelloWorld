@@ -6,7 +6,9 @@ public class HelloWorld {
 
     }
 
-    public void println(){
-        
+    public void println(String learnt_new){
+        println("Learnt NEW");
     }
+
+    
 }
